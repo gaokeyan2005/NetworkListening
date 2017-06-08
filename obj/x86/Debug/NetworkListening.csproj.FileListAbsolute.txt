@@ -1,0 +1,10 @@
+E:\工作项目\NetworkListening\NetworkListening\bin\x86\Debug\NetworkListening.exe
+E:\工作项目\NetworkListening\NetworkListening\bin\x86\Debug\NetworkListening.pdb
+E:\工作项目\NetworkListening\NetworkListening\obj\x86\Debug\NetworkListening.FrmNetwork.resources
+E:\工作项目\NetworkListening\NetworkListening\obj\x86\Debug\NetworkListening.Properties.Resources.resources
+E:\工作项目\NetworkListening\NetworkListening\obj\x86\Debug\NetworkListening.csproj.GenerateResource.Cache
+E:\工作项目\NetworkListening\NetworkListening\obj\x86\Debug\NetworkListening.exe
+E:\工作项目\NetworkListening\NetworkListening\obj\x86\Debug\NetworkListening.pdb
+E:\工作项目\NetworkListening\NetworkListening\obj\x86\Debug\NetworkListening.csprojResolveAssemblyReference.cache
+E:\工作项目\NetworkListening\NetworkListening\obj\x86\Debug\NetworkListening.Form1.resources
+E:\工作项目\NetworkListening\NetworkListening\bin\x86\Debug\ICSharpCode.SharpZipLib.dll

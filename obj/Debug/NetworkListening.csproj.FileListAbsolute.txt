@@ -1,0 +1,7 @@
+E:\工作项目\NetworkListening\NetworkListening\bin\Debug\NetworkListening.exe
+E:\工作项目\NetworkListening\NetworkListening\bin\Debug\NetworkListening.pdb
+E:\工作项目\NetworkListening\NetworkListening\obj\Debug\NetworkListening.Properties.Resources.resources
+E:\工作项目\NetworkListening\NetworkListening\obj\Debug\NetworkListening.csproj.GenerateResource.Cache
+E:\工作项目\NetworkListening\NetworkListening\obj\Debug\NetworkListening.exe
+E:\工作项目\NetworkListening\NetworkListening\obj\Debug\NetworkListening.pdb
+E:\工作项目\NetworkListening\NetworkListening\obj\Debug\NetworkListening.FrmNetwork.resources

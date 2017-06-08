@@ -1,0 +1,1 @@
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery Date": "2017-01-04","Revovery Time": "16:57:02","RoundTrip time":43,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},

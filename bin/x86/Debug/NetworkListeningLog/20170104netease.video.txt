@@ -1,0 +1,1 @@
+{"Domain name": "43.230.90.69","Address": "","Revovery Date": "2017-01-04","Revovery Time": "16:57:08","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},

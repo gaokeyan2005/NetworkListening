@@ -1,0 +1,7 @@
+{"Domain name": "43.230.90.69","Address": "","Revovery Date": "2017-01-18","Revovery Time": "14:12:31","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},
+{"Domain name": "43.230.90.69","Address": "43.230.90.69","Revovery Date": "2017-01-18","Revovery Time": "14:12:37","RoundTrip time":282,"Time to live": "45","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "43.230.90.69","Address": "43.230.90.69","Revovery Date": "2017-01-18","Revovery Time": "14:12:42","RoundTrip time":262,"Time to live": "45","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "43.230.90.69","Address": "43.230.90.69","Revovery Date": "2017-01-18","Revovery Time": "14:12:47","RoundTrip time":268,"Time to live": "45","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "43.230.90.69","Address": "","Revovery Date": "2017-01-18","Revovery Time": "14:12:56","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},
+{"Domain name": "43.230.90.69","Address": "43.230.90.69","Revovery Date": "2017-01-18","Revovery Time": "14:13:02","RoundTrip time":284,"Time to live": "45","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "43.230.90.69","Address": "","Revovery Date": "2017-01-18","Revovery Time": "14:13:11","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},

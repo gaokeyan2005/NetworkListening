@@ -1,0 +1,3 @@
+{"Domain name": "103.211.192.67","Address": "","Revovery time": "2017-46-04 15:46:55","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},
+{"Domain name": "103.211.192.67","Address": "","Revovery time": "2017-47-04 15:47:31","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},
+{"Domain name": "103.211.192.67","Address": "103.211.192.67","Revovery time": "2017-47-04 15:47:36","RoundTrip time":421,"Time to live": "46","Buffer size":32,"Computer name": "CYGKY"},

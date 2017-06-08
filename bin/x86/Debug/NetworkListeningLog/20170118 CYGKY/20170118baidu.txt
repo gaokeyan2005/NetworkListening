@@ -1,0 +1,8 @@
+{"Domain name": "www.baidu.com","Address": "220.181.112.244","Revovery Date": "2017-01-18","Revovery Time": "14:12:21","RoundTrip time":22,"Time to live": "54","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "www.baidu.com","Address": "220.181.112.244","Revovery Date": "2017-01-18","Revovery Time": "14:12:31","RoundTrip time":24,"Time to live": "54","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "www.baidu.com","Address": "220.181.112.244","Revovery Date": "2017-01-18","Revovery Time": "14:12:37","RoundTrip time":25,"Time to live": "54","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "www.baidu.com","Address": "220.181.112.244","Revovery Date": "2017-01-18","Revovery Time": "14:12:42","RoundTrip time":22,"Time to live": "54","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "www.baidu.com","Address": "220.181.112.244","Revovery Date": "2017-01-18","Revovery Time": "14:12:47","RoundTrip time":23,"Time to live": "54","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "www.baidu.com","Address": "220.181.111.188","Revovery Date": "2017-01-18","Revovery Time": "14:12:57","RoundTrip time":23,"Time to live": "54","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "www.baidu.com","Address": "220.181.111.188","Revovery Date": "2017-01-18","Revovery Time": "14:13:02","RoundTrip time":25,"Time to live": "54","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "www.baidu.com","Address": "220.181.111.188","Revovery Date": "2017-01-18","Revovery Time": "14:13:11","RoundTrip time":23,"Time to live": "54","Buffer size":32,"Computer name": "CYGKY"},

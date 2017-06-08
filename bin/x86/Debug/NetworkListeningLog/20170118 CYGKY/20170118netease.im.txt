@@ -1,0 +1,7 @@
+{"Domain name": "103.211.192.67","Address": "","Revovery Date": "2017-01-18","Revovery Time": "14:12:26","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},
+{"Domain name": "103.211.192.67","Address": "","Revovery Date": "2017-01-18","Revovery Time": "14:12:36","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},
+{"Domain name": "103.211.192.67","Address": "","Revovery Date": "2017-01-18","Revovery Time": "14:12:41","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},
+{"Domain name": "103.211.192.67","Address": "","Revovery Date": "2017-01-18","Revovery Time": "14:12:46","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},
+{"Domain name": "103.211.192.67","Address": "","Revovery Date": "2017-01-18","Revovery Time": "14:12:51","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},
+{"Domain name": "103.211.192.67","Address": "","Revovery Date": "2017-01-18","Revovery Time": "14:13:01","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},
+{"Domain name": "103.211.192.67","Address": "","Revovery Date": "2017-01-18","Revovery Time": "14:13:06","RoundTrip time":0,"Time to live": "0","Buffer size":0,"Computer name": "CYGKY"},

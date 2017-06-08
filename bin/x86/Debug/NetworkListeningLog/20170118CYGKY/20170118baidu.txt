@@ -1,0 +1,2 @@
+{"Domain name": "www.baidu.com","Address": "220.181.111.188","Revovery Date": "2017-01-18","Revovery Time": "14:13:17","RoundTrip time":21,"Time to live": "54","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "www.baidu.com","Address": "220.181.111.188","Revovery Date": "2017-01-18","Revovery Time": "14:13:22","RoundTrip time":22,"Time to live": "54","Buffer size":32,"Computer name": "CYGKY"},

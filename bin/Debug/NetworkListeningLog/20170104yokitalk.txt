@@ -1,0 +1,3 @@
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery time": "2017-46-04 15:46:50","RoundTrip time":37,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery time": "2017-47-04 15:47:26","RoundTrip time":34,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery time": "2017-47-04 15:47:36","RoundTrip time":40,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},

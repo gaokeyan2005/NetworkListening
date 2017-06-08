@@ -1,0 +1,8 @@
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery Date": "2017-01-18","Revovery Time": "14:12:22","RoundTrip time":58,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery Date": "2017-01-18","Revovery Time": "14:12:32","RoundTrip time":36,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery Date": "2017-01-18","Revovery Time": "14:12:37","RoundTrip time":36,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery Date": "2017-01-18","Revovery Time": "14:12:42","RoundTrip time":46,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery Date": "2017-01-18","Revovery Time": "14:12:47","RoundTrip time":35,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery Date": "2017-01-18","Revovery Time": "14:12:57","RoundTrip time":35,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery Date": "2017-01-18","Revovery Time": "14:13:02","RoundTrip time":36,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},
+{"Domain name": "api.chaojiwaijiao.com","Address": "121.201.13.108","Revovery Date": "2017-01-18","Revovery Time": "14:13:12","RoundTrip time":38,"Time to live": "49","Buffer size":32,"Computer name": "CYGKY"},
